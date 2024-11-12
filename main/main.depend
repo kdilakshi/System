@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1707586396 source:c:\users\dilakshi\desktop\new project\main\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<conio.h>
+	<unordered_map>
+	<cstdio>
+
